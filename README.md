@@ -10,6 +10,6 @@ We are going to argue about cats and dogs!
 
 ## link
 
-if you want to search something : [click here](http://google.come)
+if you want to search something : [click here](http://google.com)
 
 
